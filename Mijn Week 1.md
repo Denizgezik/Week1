@@ -17,5 +17,9 @@
 </p>
 
 (https://devhints.io/markdown)
+
+or
+
+https://www.markdownguide.org/basic-syntax/
 </html>
 
