@@ -11,8 +11,12 @@
 
 </head>
 <body>
-   **bold** Zo weinig tekst nog, maar daar gaan we verandering in brengen! 
+   **bold** Zo weinig tekst nog, maar daar gaan we verandering in brengen!   
+
+   
 </body>
+
+
 
 [link] (https://devhints.io/markdown)
 </html>
