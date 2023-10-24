@@ -1,11 +1,16 @@
-<h1>Mijn Week 1</h1>
+#Mijn Week 1
 
-<h2>Portfolio<!DOCTYPE html>
+##Portfolio
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eerste Test</title>
+
+
+    ###Eerste Test
+
+
 </head>
 <body>
     Zo weinig tekst nog, maar daar gaan we verandering in brengen! 
