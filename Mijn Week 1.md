@@ -11,10 +11,10 @@
 
 </head>
 <body>
-    <strong>Zo weinig tekst nog, maar daar gaan we verandering in brengen!</strong> 
+   <p> <strong>Zo weinig tekst nog, maar daar gaan we verandering in brengen!</strong> 
 
 </body> <br>
-
+</p>
 
 (https://devhints.io/markdown)
 </html>
