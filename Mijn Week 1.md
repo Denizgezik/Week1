@@ -11,9 +11,9 @@
 
 </head>
 <body>
-   **bold** Zo weinig tekst nog, maar daar gaan we verandering in brengen!   
+**bZo weinig tekst nog, maar daar gaan we verandering in brengen!** 
 
-   
+
 </body>
 
 
