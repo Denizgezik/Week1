@@ -1,6 +1,6 @@
-# h1 Mijn Week 1
+# <h1> Mijn Week 1 </h1>
 
-## h2 Portfolio
+## <h2> Portfolio </h2>
 
 <html lang="en">
 <head>
