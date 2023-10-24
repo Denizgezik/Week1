@@ -11,7 +11,7 @@
 
 </head>
 <body>
-** Zo weinig tekst nog, maar daar gaan we verandering in brengen! ** 
+    **Zo weinig tekst nog, maar daar gaan we verandering in brengen!**. 
 
 
 </body>
