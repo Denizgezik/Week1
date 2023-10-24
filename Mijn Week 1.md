@@ -13,11 +13,9 @@
 <body>
     <strong>Zo weinig tekst nog, maar daar gaan we verandering in brengen!</strong> 
 
+</body> <br>
 
-</body>
 
-<br>
-
-[link] (https://devhints.io/markdown)
+(https://devhints.io/markdown)
 </html>
 
